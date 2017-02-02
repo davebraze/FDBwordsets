@@ -1,0 +1,25 @@
+Package: FDBwordsets
+Type: Package
+Title: Stimulus wordlists extracted from studies of lexical decision and naming
+Version: 0.0.1
+Date: 2017-02-02
+Authors@R: c(
+    person("David", "Braze", email="davebraze@gmail.com", role=c("aut", "cre")),
+    person("Devon", "Eddy", role="ctb")
+    )
+Maintainer: David Braze <davebraze@gmail.com>
+Depends:
+    R (>= 3.1.1)
+Imports:
+Description:
+    A collection of word and nonword sets culled from the literature on
+    naming and lexical decision. See help for each data set for details.
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/davebraze/FDBwordlists
+BugReports: https://github.com/davebraze/FDBwordlists/issues
+RoxygenNote: 5.0.1
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
