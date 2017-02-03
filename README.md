@@ -21,6 +21,3 @@ found in the inst/scripts subdirectory.
 Key to phono alphabet is in the file "phonHarm1998-key.txt" located in
 the inst/extdata subdirectory of this package.
 
-Maybe not yet ready for prime time.
-+ transcription errors are present. See, for example, phono reps in
-  g1979a1 for nonwords "cath", "coth", "cobe", "cose".
