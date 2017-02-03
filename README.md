@@ -13,6 +13,8 @@ labor in keying data.
 
 Not yet ready for prime time.
 
-+ Phono alphabet needs to be documented within the package.
++ Key to phono alphabet is in the file "phonHarm1998-key.txt" located
+  in the inst/extdata directory of this package.
+
 + transcription errors are present. See, for example, phono reps in
   g1979a1 for nonwords "cath", "coth", "cobe", "cose".
