@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 FDBwordsets
 ====
 
@@ -26,12 +22,13 @@ The package site, with details on included wordlists, can be viewed
 [here](https://davebraze.github.io/FDBwordsets/) (See "Reference"
 tab).
 
-"Source" files for the wordsets, in the form of MS excel spreadsheet
-per wordset, can be found in the inst/extdata subdirectory of the
-installed package. A double entry method was used for entering data
-into these files. Data is keyed separately into sheet1 and then into
-sheet2 of each xlsx file. Formulae in sheet3 compare entries in the
-first two sheets and flag differences to help identify keying errors.
+"Source" files for the wordsets, in the form of one MS Excel
+spreadsheet per wordset, can be found in the inst/extdata subdirectory
+of the installed package. A double entry method was used for entering
+data into these files. Data is keyed separately into sheet1 and then
+into sheet2 of each xlsx file. Formulae in sheet3 compare entries in
+the first two sheets and flag differences to help identify data entry
+errors.
 
 A script for converting the xlsx source files to rdata files can be
 found in the inst/scripts subdirectory.
