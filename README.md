@@ -30,8 +30,8 @@ into sheet2 of each xlsx file. Formulae in sheet3 compare entries in
 the first two sheets and flag differences to help identify data entry
 errors.
 
-A script for converting the xlsx source files to rdata files can be
-found in the inst/scripts subdirectory.
+The script used for converting the xlsx source files to rdata files
+can be found in the inst/scripts subdirectory.
 
 Key to the phono alphabet used in this package can be found in the
 file "phonHarm1998-key.txt" located in the inst/extdata subdirectory
