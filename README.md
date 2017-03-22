@@ -21,16 +21,22 @@ install_github("davebraze/FDBwordsets")
 ```
 
 ## Details
+
+The package site, with details on included wordlists, can be viewed
+[here](https://davebraze.github.io/FDBwordsets/) (See "Reference"
+tab).
+
 "Source" files for the wordsets, in the form of MS excel spreadsheet
-per wordset, can be found in the inst/extdata subdirectory of this
-package. A double entry method was used for entering data into these
-files. Data is keyed separately into sheet1 and then into sheet2 of
-each xlsx file. Formulae in sheet3 compare entries in the first two
-sheets and flag differences to identify keying errors.
+per wordset, can be found in the inst/extdata subdirectory of the
+installed package. A double entry method was used for entering data
+into these files. Data is keyed separately into sheet1 and then into
+sheet2 of each xlsx file. Formulae in sheet3 compare entries in the
+first two sheets and flag differences to help identify keying errors.
 
 A script for converting the xlsx source files to rdata files can be
 found in the inst/scripts subdirectory.
 
-Key to phono alphabet is in the file "phonHarm1998-key.txt" located in
-the inst/extdata subdirectory of this package.
+Key to the phono alphabet used in this package can be found in the
+file "phonHarm1998-key.txt" located in the inst/extdata subdirectory
+of this package.
 
