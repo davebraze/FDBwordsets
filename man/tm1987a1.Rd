@@ -52,4 +52,3 @@ No details yet.
 \code{\link{tm1987a2}}
 }
 \keyword{datasets}
-

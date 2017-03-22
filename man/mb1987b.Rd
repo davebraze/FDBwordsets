@@ -42,4 +42,3 @@ No details yet.
 \code{\link{mb1987a}}
 }
 \keyword{datasets}
-

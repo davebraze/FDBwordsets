@@ -35,4 +35,3 @@ No details yet.
 \code{\link{sps1995b}}
 }
 \keyword{datasets}
-

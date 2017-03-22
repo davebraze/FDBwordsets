@@ -38,4 +38,3 @@ No details yet.
 \code{\link{g1979a1}} \code{\link{g1979a3}}
 }
 \keyword{datasets}
-

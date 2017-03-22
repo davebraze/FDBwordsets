@@ -30,4 +30,3 @@ No details yet.
 \code{\link{rgm2002b}} \code{\link{rgm2002c}}
 }
 \keyword{datasets}
-

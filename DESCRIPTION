@@ -16,9 +16,9 @@ Description:
     naming and lexical decision. See help for each data set for details.
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/davebraze/FDBwordlists
-BugReports: https://github.com/davebraze/FDBwordlists/issues
-RoxygenNote: 5.0.1
+URL: https://github.com/davebraze/FDBwordsets
+BugReports: https://github.com/davebraze/FDBwordsets/issues
+RoxygenNote: 6.0.1
 Suggests:
     knitr,
     rmarkdown
