@@ -27,7 +27,7 @@ This data set gathered from appendix A includes 92 English
     of senses.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{rgm2002a}} \code{\link{rgm2002b}}

@@ -5,7 +5,7 @@
 ##'     words contrast in regularity (R vs. E), but are approximately
 ##'     matched for onset phoneme, word frequency, and length.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 96 rows and 8 variables:
 ##'
@@ -52,7 +52,7 @@
 ##'     pair words contrast in consistency (I vs. C), but are approximately
 ##'     matched for onset phoneme, word frequency, length and regularity.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 96 rows and 10 variables:
 ##' \describe{
@@ -96,7 +96,7 @@
 ##'     differing syllabic structure.  Source words are either regular or exception
 ##'     words that have either high or low frequency and imageability.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 96 rows and 4 variables:
 ##' \describe{
@@ -125,7 +125,7 @@
 ##'     syllabic structure. Source words are either regular or exception words that are all low
 ##'     frequency but have either high or low imageability.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 64 rows and 4 variables:
 ##' \describe{
@@ -153,7 +153,7 @@
 ##'     English words (60 word pairs). Within each pair, words contrast in regularity
 ##'     (R vs. E) but are matched for onset phoneme.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 120 rows and 3 variables:
 ##' \describe{
@@ -182,7 +182,7 @@
 ##'     and exception word has a homophonically similar nonword counterpart that is matched
 ##'     for onset phonome but occasionally contains irregular spelling-to-sound correspondences.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 172 rows and 6 variables:
 ##' \describe{
@@ -215,7 +215,7 @@
 ##'     derived monosyllabic nonwords (26 pairs). Source words are either Regular or
 ##'     exception words.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 52 rows and 5 variables:
 ##' \describe{
@@ -250,7 +250,7 @@
 ##'     contrast in onset phoneme while consistent words contrast in onset phoneme as
 ##'     well as end phoneme.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 164 rows and 5 variables:
 ##' \describe{
@@ -279,7 +279,7 @@
 ##' @description This data set gathered from appendix A includes 240 Word and
 ##'     derived nonword/pseudohomophones (80 triads). Includes average reaction time data.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 240 rows and 8 variables:
 ##' \describe{
@@ -318,7 +318,7 @@
 ##'     pseudohomophones (80 nonword pairs). Includes average reaction time
 ##'     data and error rate.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 160 rows and 6 variables:
 ##' \describe{
@@ -350,7 +350,7 @@
 ##' @description This data set gathered from the source appendix includes
 ##'     48 nonwords with either high or low frequency.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 48 rows and 3 variables:
 ##' \describe{
@@ -373,7 +373,7 @@
 ##' @description This data set gathered from appendix A includes 182 English
 ##'     words.  Source words are either ambiguous or unambiguous.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 182 rows and 2 variables:
 ##' \describe{
@@ -396,7 +396,7 @@
 ##'     words.  Source words are either ambiguous or unambiguous and vary in number
 ##'     of senses.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 128 rows and 3 variables:
 ##' \describe{
@@ -421,7 +421,7 @@
 ##'     words.  Source words are either ambiguous or unambiguous and vary in number
 ##'     of senses.
 ##'
-##' @details No details yet.
+##' @details See source paper for details.
 ##'
 ##' @format A data.frame with 92 rows and 3 variables:
 ##' \describe{

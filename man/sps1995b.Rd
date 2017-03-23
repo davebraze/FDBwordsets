@@ -29,7 +29,7 @@ This data set gathered from appendix B includes 64 English words of differing
     frequency but have either high or low imageability.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{sps1995a}}

@@ -38,7 +38,7 @@ This data set gathered from appendix A includes 240 Word and
     derived nonword/pseudohomophones (80 triads). Includes average reaction time data.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{mb1987b}}

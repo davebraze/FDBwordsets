@@ -35,7 +35,7 @@ This data set gathered from table A3 includes 164 monosyllabic
     well as end phoneme.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{g1979a2}} \code{\link{g1979a1}}

@@ -36,7 +36,7 @@ This data set gathered from appendix B includes 160 nonword
     data and error rate.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{mb1987a}}

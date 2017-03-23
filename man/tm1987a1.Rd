@@ -46,7 +46,7 @@ This data set gathered from appendix A and includes
     matched for onset phoneme, word frequency, and length.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{tm1987a2}}

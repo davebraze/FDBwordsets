@@ -26,6 +26,6 @@ This data set gathered from the source appendix includes
     48 nonwords with either high or low frequency.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \keyword{datasets}

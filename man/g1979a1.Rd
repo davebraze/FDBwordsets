@@ -36,7 +36,7 @@ This data set gathered from table A1 includes 172 monosyllabic English
     for onset phonome but occasionally contains irregular spelling-to-sound correspondences.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{g1979a2}} \code{\link{g1979a3}}

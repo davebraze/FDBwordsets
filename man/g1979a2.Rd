@@ -32,7 +32,7 @@ This data set gathered from table A2 includes a list of 52 lexically
     exception words.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{g1979a1}} \code{\link{g1979a3}}

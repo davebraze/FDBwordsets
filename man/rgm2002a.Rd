@@ -24,7 +24,7 @@ This data set gathered from appendix A includes 182 English
     words.  Source words are either ambiguous or unambiguous.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \seealso{
 \code{\link{rgm2002b}} \code{\link{rgm2002c}}

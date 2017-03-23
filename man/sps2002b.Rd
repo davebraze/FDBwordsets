@@ -29,6 +29,6 @@ This data set gathered from appendix B includes 120 monosyllabic
     (R vs. E) but are matched for onset phoneme.
 }
 \details{
-No details yet.
+See source paper for details.
 }
 \keyword{datasets}
