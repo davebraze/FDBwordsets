@@ -2,8 +2,9 @@ FDBwordsets
 ====
 
 A collection of word and nonword sets culled from the literature on
-naming and lexical decision. The initial release includes 14 wordsets
-from 7 published papers. See help for each wordset for details.
+naming and lexical decision, and distributed as an R data package. The
+initial release includes 14 wordsets from 7 published papers. See help
+for each wordset for details.
 
 Compiled under supervision of Dave Braze. Devon Eddy did yoeman's
 labor keying in data.
