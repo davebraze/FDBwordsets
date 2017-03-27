@@ -1,3 +1,11 @@
 template:
   params:
     bootswatch: united
+
+reference:
+  - title: "Wordsets"
+    desc: >
+      Word sets used as stimuli in various studies of naming and
+      lexical decision.
+    contents:
+      - matches("[0-9]{4}")
