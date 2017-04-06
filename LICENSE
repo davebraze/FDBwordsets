@@ -1,6 +1,11 @@
-The MIT License (MIT)
+Note that FDBwordsets includes selected material from published
+research papers under the doctrine of fair-use. Copyrights attached to
+those source publications govern the included material. Other parts of
+the package, and the compilation itself, are copyright (c) 2016-2017
+David Braze. Use "git blame" for details. This package is released
+under the MIT License.
 
-Copyright (c) 2014-2017 David Braze and others. Use "git blame" for details.
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
